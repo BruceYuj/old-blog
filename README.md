@@ -1,8 +1,10 @@
 Bruceyuj's mind blog
 ===
-This is my blog. I think it's an another home for my mind.
-
-blog framework:hexo
-
+blog framework: hexo
 theme: next
 
+need to improve
+---
+1. travis CI etc.
+2. count of visitors
+3. customize
